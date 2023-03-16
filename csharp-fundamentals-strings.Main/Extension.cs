@@ -85,7 +85,7 @@ namespace csharp_fundamentals_strings.Main
             StringBuilder sb = new StringBuilder();
 
             // 1. Using the sb variable above, add "Hello, world!" to the StringBuilder
-            // 2. After adding the message, replace the word "world" with the word "Java"
+            // 2. After adding the message, replace the word "world" with the word "C#"
             // WRITE YOUR CODE BETWEEN THIS LINE...
 
 
