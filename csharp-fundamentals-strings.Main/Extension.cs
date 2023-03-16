@@ -21,7 +21,7 @@ namespace csharp_fundamentals_strings.Main
         }
         // As you can see, it's difficult to construct something as simple as a welcome message this way. If we want to
         // work with a mutable string, we should use another approach. One option is to use the StringBuilder class:
-        // https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/StringBuilder.html
+        // https://learn.microsoft.com/en-us/dotnet/api/system.text.stringbuilder?view=net-7.0
 
         // The following block of code is a method. You've been using these during the core criteria, and this is how we
         // create our own methods. You'll be doing this in a future exercise. For now, write your code between the

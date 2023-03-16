@@ -13,12 +13,12 @@ namespace csharp_fundamentals_strings.Main
 
         //TODO: 1. The brokenUrl member above contains an invalid URL. There's a z instead of an s in the protocol (httpz instead of https).
         // Using the `replace` method on brokenUrl, set the fixedUrl member below to the correct value.
-        // https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html#replace(char,char)
+        // https://learn.microsoft.com/en-us/dotnet/api/system.string.replace?view=net-7.0
         public string fixedUrl => string.Empty;
 
 
         // Here's a documentation link for all string methods, use it to figure out how to complete the rest of these requirements:
-        // https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/lang/String.html#method-summary
+        // https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-7.0
 
 
         //TODO: 2. There are currently some upper case characters in the URL. Using an appropriate string method on the fixedUrl member above,
