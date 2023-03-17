@@ -1,4 +1,4 @@
-# Java Strings
+# C# Strings
 
 ## Learning Objectives
 - Use common C# string operations to manipulate a URL
