@@ -9,6 +9,11 @@
 - Implement the requirements listed in comments in the `Core.cs` file
 - When ready to test your solution, open the 'Test Explorer' file and click "Run". 
 
+![](./assets/run_tests.png)
+
+- If you need to run a single test
+![](./assets/run_test_single.png)
+
 ## Test Output
 
 When you run a test, it's either going to pass or fail. When it fails, you'll be presented with a red dot with an x in the middle.  By clicking on the test, you getr a Test Details Summary.  On here you can see a snippet from the stack trace.  Stack traces, though intimidating, does contain some useful information.
