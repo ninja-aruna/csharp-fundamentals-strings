@@ -7,7 +7,7 @@
 - Fork this repository and clone the forked version to your machine
 - Open the solution file.
 - Implement the requirements listed in comments in the `Core.cs` file
-- When ready to test your solution, open the 'Test Explorer' file and click "Run". 
+- When ready to test your solution, open the 'Test Explorer' file and click "Run".   Note that you should ensure your project BUILDS (Ctrl + Shift + B) prior to running tests as you can't run tests on a broken solution!
 
 ![](./assets/run_tests.png)
 
